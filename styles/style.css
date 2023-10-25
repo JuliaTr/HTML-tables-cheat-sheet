@@ -1,0 +1,26 @@
+html, body {
+  background-color: Azure;
+  font-family: monospace;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: Teal;
+}
+
+table, th, td {
+  margin: auto;
+  border: solid CadetBlue;
+  font-size: 16px;
+}
+
+th {
+  background-color: LightBlue;
+}
+
+td .code {
+  background-color: SeaShell;
+}
